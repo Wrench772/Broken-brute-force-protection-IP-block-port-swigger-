@@ -1,2 +1,2 @@
 # Broken-brute-force-protection-IP-block-port-swigger-
-word list for challenge
+word list for challenge ( just do it)
